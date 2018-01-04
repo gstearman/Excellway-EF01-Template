@@ -12,4 +12,4 @@ I created this template when building an amateur radio transceiver kit and wante
 
 # More Information
 
-For a full explanation of how to use this template, see this [devtty.io article](https://devtty.io/2017/11/electronics/excellway-project-box-drill-template/).
+For a full explanation of how to use this template, see this [devtty.io article](https://devtty.io/2018/01/electronics/excellway-project-box-drill-template/).
